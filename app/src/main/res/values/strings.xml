@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"    >Navigation Tutorial</string>
+    <string name="access_token"
+        translatable="false">pk.eyJ1IjoiZGlzY29ubmVjdHdoZW4iLCJhIjoiY2pqc3U2eTczNDZhYjNwcm1sMWw2cmo3ZCJ9.wLVQWlqv4NQG7jg4Jpf1yg</string>
+</resources>
